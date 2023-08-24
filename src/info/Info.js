@@ -103,25 +103,25 @@ export const info = {
         {
             title: "Project 1",
             live: "https://chat-app-4e3a4.web.app", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
-            source: "https://github.com/paytonjewell", // this should be a link to the **repository** of the project, where the code is hosted.
+            source: "https://github.com/BenRoSang/chat-app", // this should be a link to the **repository** of the project, where the code is hosted.
             image: mock1
         },
         {
             title: "Project 2",
             live: "https://cryptoverse-blush.vercel.app",
-            source: "https://github.com/paytonjewell",
+            source: "https://github.com/BenRoSang/cryptoverse",
             image: mock2
         },
         {
             title: "Project 3",
             live: "https://ecommerce-front-seven-rho.vercel.app",
-            source: "https://github.com/paytonjewell",
+            source: "https://github.com/BenRoSang/ecommerce-front",
             image: mock3
         },
         {
             title: "Project 4",
             live: "https://ecommerce-admin-amber-two.vercel.app",
-            source: "https://github.com/paytonjewell",
+            // source: "https://github.com/paytonjewell",
             image: mock4,
             loginInfo: 'User Name: Admin, Password: nextauth'
         },
