@@ -3,6 +3,7 @@ import mock1 from "../img/project1.png"
 import mock2 from "../img/project2.png"
 import mock3 from "../img/project3.png"
 import mock4 from "../img/project4.png"
+import mock5 from "../img/project5.png"
 // import mock5 from "../img/mock5.png"
 
 /* Hi there! Thanks for checking out my portfolio template. Be sure to read the comments to get a better understanding of
@@ -124,6 +125,13 @@ export const info = {
             // source: "https://github.com/paytonjewell",
             image: mock4,
             loginInfo: 'User Name: Admin, Password: nextauth'
+        },
+        {
+            title: "Project 5",
+            live: "https://car-rental-service-nine.vercel.app",
+            source: "https://github.com/BenRoSang/Car-Rental-Service",
+            image: mock5,
+            // loginInfo: 'User Name: Admin, Password: nextauth'
         },
     ]
 }
